@@ -1,1 +1,14 @@
 # Operating-Platforms
+The Gaming Room is a client seeking to develop a software application to support their existing game, Draw It or Lose It. The client wants a scalable solution that can run on multiple platforms while maintaining a consistent user experience. The software must support multiple concurrent game sessions, ensure data persistence, and function efficiently across different operating systems. My role was to analyze their requirements, evaluate potential system architectures, and propose a software design that meets their needs.
+Reflection on the Design Process
+-Strengths in Documentation Development
+One of the key strengths of my software design documentation was clearly articulating the system architecture and platform recommendations. I focused on ensuring that the document was detailed yet understandable, making it accessible to both technical and non-technical stakeholders. Additionally, I provided a structured breakdown of requirements, including storage management, security considerations, and network infrastructure.
+-Benefits of the Design Document
+Working through this design document helped me better understand the importance of structured planning before development. By outlining system requirements, constraints, and potential challenges beforehand, I was able to anticipate issues that might arise during implementation. This structured approach made it easier to develop a solution aligned with both the client’s goals and best software engineering practices.
+-Areas for Improvement
+If I had the opportunity to revise one part of my work, I would focus on expanding the user interface (UI) and user experience (UX) considerations. While the document covers functionality and system architecture well, a more detailed discussion on UI components and user interaction flow would improve the overall design. In the future, I would include wireframes or prototypes to better illustrate the intended user experience.
+-Interpreting User Needs
+To ensure the software met user expectations, I analyzed the client’s requirements and game functionality in detail. I focused on understanding the gameplay mechanics, user interactions, and performance needs across different devices. Considering the user’s needs is crucial because it directly impacts engagement, usability, and the overall success of the application. A well-designed system must not only function correctly but also provide an intuitive and enjoyable experience for its users.
+-Software Design Approach
+My approach to designing the software involved using modular architecture and platform-independent technologies. I evaluated multiple operating platforms and recommended a solution that leveraged cloud-based services for scalability while ensuring smooth performance on various devices. Moving forward, I plan to incorporate more automation in system testing and deployment to improve efficiency in future projects.
+
